@@ -1,16 +1,11 @@
 <div align="center">
-  <h3>freud</h3>
+  <h1>freud</h1>
 </div>
 
 <p align="center">
-     <a href="https://www.gnu.org/licenses/agpl-3.0.html">
-     <img src="https://img.shields.io/badge/License-AGPL--3.0-blue.svg" alt="License: AGPL-3.0"></a>
-    <a href="https://www.harmonyos.com/">
-    <img src="https://img.shields.io/badge/Platform-HarmonyOS-green.svg" alt="Platform: HarmonyOS">
-    </a>
-    <a href="https://developer.huawei.com/consumer/cn/arkts/">
-    <img src="https://img.shields.io/badge/Language-ArkTS-orange.svg" alt="Language: ArkTS">
-    </a>
+  <a href="https://www.gnu.org/licenses/agpl-2.0.html"><img src="https://img.shields.io/badge/License-AGPL--2.0-blue.svg" alt="License: AGPL-2.0"></a>
+  <a href="https://www.wikiart.org/"><img src="https://img.shields.io/badge/Platform-RealWorld-green.svg" alt="Platform: RealWorld"></a>
+  <a href="https://www.wikiwand.com/en/Paintbrush"><img src="https://img.shields.io/badge/Language-PaintBrush-orange.svg" alt="Language: PaintBrush"></a>
 </p>
 
 ## 目录
